@@ -1,5 +1,4 @@
-# Accenture-Supply-Chain-Resilience-Data-Challenge
-
+# Accenture-Supply-Chain--Data
 
 The original datasets are found on Kaggle. However, these datasets have limited access. Nonetheless, the datasets are obtained from the data folder in this repository https://github.com/JNADatathon2022/Datathon.
 
@@ -7,7 +6,7 @@ The original datasets are found on Kaggle. However, these datasets have limited 
 Late Deliveries cause reputation damage and loss of potential revenue for both the logistics companies and the cilents. Hence, this project seeks to investigate the underlying factors that cause the delivery to be delayed and provide preemptive actions for the stakeholders to reduce future instances of late deliveries.
 ## Methodology
 1. Preprocessing the datasets by performing the necessary encoding on the respective variables.
-2. Create 2 datasets Stratified and Adasyn to address the imbalanced nature of the dataset.
+2. Create 2 datasets Stratified and Adasyn to address the imbalanced nature of the minority class `late`.
 3. Perform the splitting into training and testing datasets.
 4. Perform Mutual Information, Chi square test on the categorical variables.
 5. Perform Mutual Information and the correlation test on the numerical variables.
