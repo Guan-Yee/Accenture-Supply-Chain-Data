@@ -1,0 +1,33 @@
+This is the overall repository structure.
+│   README.md
+│
+├───Dataset
+│   ├───cleaned
+│   │       x_test_adasyn_c.csv
+│   │       x_test_strat_c.csv
+│   │       x_train_adasyn_c.csv
+│   │       x_train_strat_c.csv
+│   │       y_test_adasyn.csv
+│   │       y_test_strat.csv
+│   │       y_train_adasyn.csv
+│   │       y_train_strat.csv
+│   │
+│   └───Original
+│           cities_data.csv
+│           cities_data.txt
+│           orders.csv
+│           orders.txt
+│           product_attributes.csv
+│           product_attributes.txt
+│           UPC Datathon_challenge_NovFY23.pdf
+│
+├───EDA and Preprocessing
+│       EDA and Preprocessing Code.ipynb
+│
+├───Feature_Selection
+│       Feature Selection Adasyn.ipynb
+│       Feature Selection Baseline.ipynb
+│
+└───Modelling
+        Adasyn Modelling.ipynb
+        Baseline Strat Modelling.ipynb
