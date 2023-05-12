@@ -1,4 +1,4 @@
-# Accenture-Supply-Chain--Data
+# Accenture-Supply-Chain-Data
 
 The original datasets are found on Kaggle. However, these datasets have limited access. Nonetheless, the datasets are obtained from the data folder in this repository https://github.com/JNADatathon2022/Datathon.
 
